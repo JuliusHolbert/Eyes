@@ -7,6 +7,9 @@
 ## How to Run:
 this code doesn't need any third party packages to run. simply download the files to your desktop and then drag the index.html folder into your browser
 
+## Future Improvements:
+In the future I would like to make the eyes smaller and find famous paintings of people and use them as a backgroud overlway for the eyes. This would require moving the eyes on the screen so they line up with the images, but I think it would be a really cool effect and would be really funny 
+
 ## License
 Copyright 2021 Julius Holbert
 
